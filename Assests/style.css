@@ -143,12 +143,11 @@ width:1500px;
 height:600px;}
 
 .read{
-  display:block;
+
 background:#ffbe00;
 width:150px;
 padding:10px;
 border:0;
-margin:0 auto;
 color:#ffffff;
 font-weight:bold;
 font-size:15px;
@@ -391,9 +390,9 @@ border-radius:10px;}
 .navigation-box,.donate{display:none;}
 #open{
 display:block;
-margin:10px 50px;}
+margin:10px 30px;}
 #close{
-margin:10px 50px;}
+margin:10px 30px;}
 
 .gallery-image,.mandir{
 margin-top:10px;
@@ -405,5 +404,6 @@ margin-top:10px;
 margin:0 auto;}
 
 }
+
 
 

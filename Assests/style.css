@@ -142,11 +142,12 @@ width:1500px;
 height:600px;}
 
 .read{
+  display:block;
 background:#ffbe00;
 width:150px;
 padding:10px;
 border:0;
-margin-left:600px;
+margin:0 auto;
 color:#ffffff;
 font-weight:bold;
 font-size:15px;
@@ -403,3 +404,4 @@ margin-top:10px;
 margin:0 auto;}
 
 }
+

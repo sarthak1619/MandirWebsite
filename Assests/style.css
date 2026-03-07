@@ -6,7 +6,8 @@ padding:0;
 }
 
 body{
-scroll-behaviour:smooth;}
+scroll-behaviour:smooth;
+overflow:hidden;}
 
 .center{
 text-align:center;
@@ -400,4 +401,5 @@ margin-top:10px;
 @media screen and (max-width:950px){
 .map,.map-image{
 margin:0 auto;}
+
 }

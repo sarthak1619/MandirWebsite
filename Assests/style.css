@@ -3,11 +3,12 @@
 *{
 margin:0;
 padding:0;
+overflow:hidden;
 }
 
 body{
 scroll-behaviour:smooth;
-overflow:hidden;}
+}
 
 .center{
 text-align:center;
@@ -404,4 +405,5 @@ margin-top:10px;
 margin:0 auto;}
 
 }
+
 
